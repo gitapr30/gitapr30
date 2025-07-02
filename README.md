@@ -8,5 +8,5 @@ Here are some ideas to get you started 😛:
 
 - 🔭 I’m currently working on Tiga Pilar Garuda
 - 🌱 I’m currently learning PHP, CSS, Js
-- 📫 How to reach me: gitapatricia@gmail.com
+- 📫 How to reach me: gitapatriciaramadhani@gmail.com
 - ⚡ Fun fact: im grill
